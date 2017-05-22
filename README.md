@@ -1,6 +1,7 @@
-# test1
-beginning experiment - learning github
+# Hello World!
 
+Basicly a Hello World for learning git. 
 
+This project won't be here long.
 
 Burmashave.
