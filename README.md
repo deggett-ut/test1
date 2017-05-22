@@ -1,5 +1,5 @@
 # test1
 
-beginning experiment - learning git & github
+Basicly a Hello World for learning git. 
 
-Making first set of edits. Right here. Yo.
+This project won't be here long.
